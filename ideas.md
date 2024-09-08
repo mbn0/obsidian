@@ -1,0 +1,1 @@
+qr code on books that allows LLM's to take it as a reference.
