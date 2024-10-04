@@ -15,4 +15,5 @@ class Person
 }
 ```
 
+
 - Unlike `const`, which requires a value to be assigned at the time of declaration and the value must be a compile-time constant, `readonly` fields can be assigned values at runtime, particularly in constructors.

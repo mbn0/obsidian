@@ -19,7 +19,7 @@ foreach (var i in scoreQuery)
 // Output: 97 92 81
 ```
 
-- the `IEnumerable<T>` can be used on any type of data.
+- the `IEnumerable<T>` can be used on any type of data. For more info check [[Interfaces in CSharp]]
 - The value of scoreQuery is not calculated until it is called.
 
 ## another way to write it

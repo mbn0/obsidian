@@ -1,0 +1,5 @@
+- [x] dotnet
+- [x] SQL server (Docker)
+- [x] Azure DevOps
+- [x] make the sql server container data persistent. 
+- [ ] ensure the connection works.

@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "attachmentFolderPath": "Static",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }
