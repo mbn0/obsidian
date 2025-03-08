@@ -1,4 +1,0 @@
----
-aliases:
-  - Object Oriented Programming
----

@@ -1,1 +1,0 @@
-im not sure what is the use, but you can use \#warning to add a warning in dotnet.
