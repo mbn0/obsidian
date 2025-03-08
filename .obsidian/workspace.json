@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/property_binding_in_angular.md",
+                "file": "dotnet/Mappers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "property_binding_in_angular"
+              "title": "Mappers"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL for Task 1.md",
+                "file": "dotnet/Mappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQL for Task 1"
+              "title": "Backlinks for Mappers"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL for Task 1.md",
+                "file": "dotnet/Mappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SQL for Task 1"
+              "title": "Outgoing links from Mappers"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL for Task 1.md",
+                "file": "dotnet/Mappers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL for Task 1"
+              "title": "Outline of Mappers"
             }
           },
           {
@@ -222,14 +222,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af1e53511933d44e",
+  "active": "18fba8017ccfdb56",
   "lastOpenFiles": [
+    "dotnet/LINQ.md",
+    "dotnet/Interfaces in CSharp.md",
+    "dotnet/dotnet ORM.md",
+    "dotnet/Data Structure with CSharp.md",
+    "dotnet/Csharp shortcuts.md",
+    "dotnet/Controller.md",
+    "dotnet/Async and await.md",
+    "dotnet/Architecture.md",
+    "dotnet/(dotnet) Connecting to DB and migrating.md",
+    "angular/property_binding_in_angular.md",
+    "SQL for Task 1.md",
     "dotnet/warnings in dotnet.md",
     "Untitled.md",
     "angular/two_way_binding.md",
     "Tmux config for later.md",
     "testing.md",
-    "SQL for Task 1.md",
     "Vim/Plugins.md",
     "dotnet/EntityFrameWork.md",
     "angular/code_behind.md",
@@ -238,19 +248,9 @@
     "dotnet/API/Data Transfer Objects (DTO's).md",
     "Architecture.md",
     "dotnet/API/Models.md",
-    "dotnet/Controller.md",
     "dotnet/API/Context or Data.md",
-    "dotnet/Data Structure with CSharp.md",
-    "dotnet/Csharp shortcuts.md",
-    "dotnet/(dotnet) Connecting to DB and migrating.md",
     "sites to check later.md",
-    "dotnet/dotnet ORM.md",
     "dotnet/Scaffolding in dotnet.md",
-    "dotnet/API/API packages needed.md",
-    "dotnet/\"Partial\" Keyword in dotnet.md",
-    "Docker/Using SQL Servers inside a docker container.md",
-    "SQLServer/Auto Increment in SQL Servers.md",
-    "dotnet/Packages in dotnet.md",
     "obsedian",
     "Static"
   ]
