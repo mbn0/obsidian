@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 
-# ngStyle
+	# ngStyle
 
 a way to apply inline css styles in angular that can be more dynamic and call functions in the code.
 
