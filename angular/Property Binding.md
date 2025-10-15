@@ -5,6 +5,7 @@ aliases:
 tags: []
 ---
 
+# Note : Check [[Signals]] for new way
 # property binding in angular
 
 declaring a variable in typscript then using it in the html.
@@ -33,8 +34,9 @@ file: app.component.html
 ```html
 <router-outlet> </router-outlet>
 {{title}}
-
+	
 <h1 [innerHTML]= "title"></h1>
   <img [src] = "imgsrc">
 
 ```
+

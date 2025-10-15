@@ -22,3 +22,21 @@ To check if its mounted correctly use:
 ```bash
 docker inspect <container>
 ```
+
+```json
+services:
+    server:
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_SA_PASSWORD=fdakj
+        network_mode: "host"
+        container_name: sql1
+        hostname: sql1
+        volumes:
+            - sqlvolume:/var/opt/mssql
+        image: mcr.microsoft.com/mssql/server:2022-latest
+volumes:
+    sqlvolume:
+
+```
+the reason behind the use of network mode host instead of adding ports is apparently the missing veth module from the kernal, which i can load into another kernal to 

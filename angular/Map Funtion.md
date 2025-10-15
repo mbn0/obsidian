@@ -1,0 +1,1 @@
+the map function from [[RxJS]]
