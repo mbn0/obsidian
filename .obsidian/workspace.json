@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/httpResource.md",
+                "file": "Obsidian Text formatting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "httpResource"
+              "title": "Obsidian Text formatting"
             }
           }
         ],
@@ -355,17 +355,19 @@
   },
   "active": "6000ca2f24cd779c",
   "lastOpenFiles": [
+    "dotnet/Starting with dotnet.md",
+    "Obsidian Text formatting.md",
+    "angular/template_reference_variable.md",
+    "angular/Observables, Pipe, etc.md",
+    "angular/httpResource.md",
     "angular/RxJS.md",
     "angular/Map Funtion.md",
-    "angular/httpResource.md",
     "Questions.md",
     "angular/ngstyle.md",
     "angular/Property Binding.md",
     "angular/Signals.md",
     "ideas.md",
-    "angular/Observables, Pipe, etc.md",
     "sites to check later.md",
-    "angular/template_reference_variable.md",
     "Tmux config for later.md",
     "testing.md",
     "Untitled.md",
@@ -376,11 +378,9 @@
     "angular/code_behind.md",
     "angular/angular_dependincies.md",
     "django/How to run.md",
-    "Obsedian Text formatting.md",
     "dotnet/Architecture.md",
     "dotnet/API/Starting With Building API's.md",
     "ngFor.md",
-    "Checklist.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",

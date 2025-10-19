@@ -8,7 +8,7 @@ cssclasses:
   - I mean it speaks for it self
 tags:
   - "#stuff"
-related notes: "[[Obsedian Text formatting]]"
+related notes: "[[Obsidian Text formatting]]"
 ---
 # Overview
 
@@ -54,7 +54,7 @@ related notes: "[[Obsedian Text formatting]]"
 ---
 ## Links to Sections:
 
-[[Obsedian Text formatting#^checkboxes]]
+[[Obsidian Text formatting#^checkboxes]]
 
-[[Obsedian Text formatting#List]]
+[[Obsidian Text formatting#List]]
 
