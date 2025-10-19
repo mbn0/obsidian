@@ -14,14 +14,11 @@ install the dotnet sdk, eaither by urself or by following the guide in the VS Co
 
 use `dotnet new` to see all the types of projects you can make
 we will be using :
+
 ```bash
 dotnet new console -n <name>
 ```
 - if you give your project a name, it will be created in a folder, if you dont, the files will spawn in the folder  you are currently in
-'''
-`
-'''
-
 
 to run:
 ```

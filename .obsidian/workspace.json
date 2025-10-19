@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Starting.md",
+                "file": "Obsidian Text formatting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Starting"
-            }
-          },
-          {
-            "id": "a7cbd12aacaf1082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dotnet/Starting with dotnet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Starting with dotnet"
+              "title": "Obsidian Text formatting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
         "dimension": 37.0020964360587,
         "children": [
           {
-            "id": "de365efa588c5de9",
+            "id": "3b83063f99a9493f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -131,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -235,9 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7cbd12aacaf1082",
+  "active": "3b83063f99a9493f",
   "lastOpenFiles": [
+    "dotnet/Architecture.md",
+    "Obsidian Text formatting.md",
+    "Questions.md",
     "FormBuilder/Starting.md",
+    "fkd.md",
+    "dotnet/Starting with dotnet.md",
     "angular/Observables, Pipe, etc.md",
     "Dynamic Data-Source Connection.md",
     "Untitled.md",
@@ -247,11 +226,9 @@
     "django/How to run.md",
     "Docker/Using SQL Servers inside a docker container.md",
     "angular/Map Funtion.md",
-    "dotnet/Starting with dotnet.md",
     "dotnet/API/Starting With Building API's.md",
     "dotnet/API/testing2.md",
     "dotnet/Packages in dotnet.md",
-    "Obsidian Text formatting.md",
     "Docker/Starting with docker.md",
     "Untitled.base",
     "dotnet/warnings in dotnet.md",
@@ -263,9 +240,6 @@
     "[[Map.md",
     "angular/RxJS.md",
     "angular/template_reference_variable.md",
-    "angular/httpResource.md",
-    "Questions.md",
-    "angular/ngstyle.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
