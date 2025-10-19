@@ -4,179 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "650b64d2ddd1f1d9",
+        "id": "d45e7b9c93308c63",
         "type": "tabs",
         "children": [
           {
-            "id": "87b80e8e146f2751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "django/How to run.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to run"
-            }
-          },
-          {
-            "id": "9c32a4d06e97296d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Using SQL Servers inside a docker container.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Using SQL Servers inside a docker container"
-            }
-          },
-          {
-            "id": "898dbbe0ecfc51c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "httpResource.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "httpResource"
-            }
-          },
-          {
-            "id": "eab9a753e7a34b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "angular/Map Funtion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Map Funtion"
-            }
-          },
-          {
-            "id": "3235f63df4511832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "angular/Map Funtion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Map Funtion"
-            }
-          },
-          {
-            "id": "0d9bda6dcdd62f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RxJS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RxJS"
-            }
-          },
-          {
-            "id": "6000ca2f24cd779c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "angular/Map Funtion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Map Funtion"
-            }
-          },
-          {
-            "id": "f63562804833e920",
+            "id": "c68c8a54da957f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,12 +32,12 @@
             }
           },
           {
-            "id": "c6b1ef8ebc85cbc7",
+            "id": "c8cd0ef341a6eeb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/Observables, Pipe, etc.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Observables, Pipe, etc"
-            }
-          },
-          {
-            "id": "249d17d3e7f982c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dotnet/Starting with dotnet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Starting with dotnet"
-            }
-          },
-          {
-            "id": "dc7d071c44c963ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dotnet/API/Starting With Building API's.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Starting With Building API's"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -449,36 +233,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc7d071c44c963ff",
+  "active": "c8cd0ef341a6eeb6",
   "lastOpenFiles": [
-    "dotnet/API/testing2.md",
+    "Untitled.md",
+    "FormBuilder",
+    "Untitled 1.base",
+    "Tap function.md",
+    "angular/Observables, Pipe, etc.md",
+    "django/How to run.md",
+    "Docker/Using SQL Servers inside a docker container.md",
+    "angular/Map Funtion.md",
     "dotnet/Starting with dotnet.md",
+    "dotnet/API/Starting With Building API's.md",
+    "dotnet/API/testing2.md",
     "dotnet/Packages in dotnet.md",
     "Obsidian Text formatting.md",
     "Docker/Starting with docker.md",
-    "Tap function.md",
-    "Untitled 1.base",
     "Untitled.base",
     "dotnet/warnings in dotnet.md",
     "dotnet/Csharp shortcuts.md",
     "dotnet/Connecting to DB and migrating.md",
-    "Untitled.md",
-    "angular/Observables, Pipe, etc.md",
     "SQL for Task 1.md",
     "Tap.md",
     "[[Tap.md",
     "[[Map.md",
     "angular/RxJS.md",
-    "angular/Map Funtion.md",
     "angular/template_reference_variable.md",
     "angular/httpResource.md",
     "Questions.md",
     "angular/ngstyle.md",
     "angular/Property Binding.md",
-    "angular/Signals.md",
-    "ideas.md",
-    "sites to check later.md",
-    "Tmux config for later.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
