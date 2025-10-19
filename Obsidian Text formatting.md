@@ -4,8 +4,6 @@ aliases:
   - other names for the file
 what: custom property,
 cssclasses:
-  - idk
-  - I mean it speaks for it self
 tags:
   - "#stuff"
 related notes: "[[Obsidian Text formatting]]"
