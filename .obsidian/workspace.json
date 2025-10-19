@@ -155,13 +155,24 @@
             "id": "6000ca2f24cd779c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "angular/ngstyle.md",
-                "staged": false
+                "file": "angular/httpResource.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (ngstyle)"
+              "icon": "lucide-file",
+              "title": "httpResource"
             }
           }
         ],
@@ -198,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#stuff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,13 +315,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/Mappers.md",
+                "file": "angular/httpResource.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mappers"
+              "title": "Outline of httpResource"
             }
           },
           {
@@ -344,35 +355,35 @@
   },
   "active": "6000ca2f24cd779c",
   "lastOpenFiles": [
-    "angular/ngstyle.md",
-    "Observables, Pipe, etc.md",
-    "RxJS.md",
+    "angular/RxJS.md",
     "angular/Map Funtion.md",
+    "angular/httpResource.md",
     "Questions.md",
-    "httpResource.md",
-    "Signals.md",
+    "angular/ngstyle.md",
     "angular/Property Binding.md",
+    "angular/Signals.md",
+    "ideas.md",
+    "angular/Observables, Pipe, etc.md",
+    "sites to check later.md",
+    "angular/template_reference_variable.md",
+    "Tmux config for later.md",
+    "testing.md",
+    "Untitled.md",
+    "for later.md",
     "Docker/Using SQL Servers inside a docker container.md",
     "angular/two_way_binding.md",
     "angular/ngclass.md",
     "angular/code_behind.md",
     "angular/angular_dependincies.md",
-    "Untitled.md",
     "django/How to run.md",
     "Obsedian Text formatting.md",
     "dotnet/Architecture.md",
     "dotnet/API/Starting With Building API's.md",
-    "testing.md",
-    "for later.md",
     "ngFor.md",
     "Checklist.md",
-    "dotnet/Controller.md",
-    "Tmux config for later.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",
-    "dotnet/API/Data Transfer Objects (DTO's).md",
-    "SQLServer/Auto Increment in SQL Servers.md",
     "SQLServer",
     "obsedian",
     "Static"
