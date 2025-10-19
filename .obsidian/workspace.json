@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Text formatting.md",
+                "file": "angular/Map Funtion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Text formatting"
+              "title": "Map Funtion"
+            }
+          },
+          {
+            "id": "f63562804833e920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "angular/Observables, Pipe, etc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Observables, Pipe, etc"
+            }
+          },
+          {
+            "id": "c6b1ef8ebc85cbc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "angular/Observables, Pipe, etc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Observables, Pipe, etc"
+            }
+          },
+          {
+            "id": "249d17d3e7f982c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "angular/Observables, Pipe, etc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Observables, Pipe, etc"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -353,15 +425,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6000ca2f24cd779c",
+  "active": "249d17d3e7f982c9",
   "lastOpenFiles": [
-    "dotnet/Starting with dotnet.md",
-    "Obsidian Text formatting.md",
-    "angular/template_reference_variable.md",
     "angular/Observables, Pipe, etc.md",
-    "angular/httpResource.md",
+    "SQL for Task 1.md",
+    "Tap.md",
+    "Tap function.md",
+    "[[Tap.md",
+    "Untitled.md",
+    "[[Map.md",
     "angular/RxJS.md",
     "angular/Map Funtion.md",
+    "Obsidian Text formatting.md",
+    "dotnet/Starting with dotnet.md",
+    "angular/template_reference_variable.md",
+    "angular/httpResource.md",
     "Questions.md",
     "angular/ngstyle.md",
     "angular/Property Binding.md",
@@ -370,17 +448,11 @@
     "sites to check later.md",
     "Tmux config for later.md",
     "testing.md",
-    "Untitled.md",
     "for later.md",
     "Docker/Using SQL Servers inside a docker container.md",
     "angular/two_way_binding.md",
     "angular/ngclass.md",
     "angular/code_behind.md",
-    "angular/angular_dependincies.md",
-    "django/How to run.md",
-    "dotnet/Architecture.md",
-    "dotnet/API/Starting With Building API's.md",
-    "ngFor.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",

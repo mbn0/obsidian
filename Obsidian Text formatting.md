@@ -57,4 +57,3 @@ related notes: "[[Obsidian Text formatting]]"
 [[Obsidian Text formatting#^checkboxes]]
 
 [[Obsidian Text formatting#List]]
-

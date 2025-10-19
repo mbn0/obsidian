@@ -8,7 +8,5 @@ The part that listens to the data, usually called ".subscribe( )"
 
 # Pipe
 
-Pipe is a method used to transform data stream with operations, like ([[Map Funtion]],`filter`, `tap`...)
-
-
+Pipe is a method used to transform data stream with operations, like (map, filter, [tap...]("Tap function"))
 
