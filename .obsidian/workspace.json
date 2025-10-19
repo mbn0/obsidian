@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet/Starting with dotnet.md",
+                "file": "dotnet/API/Starting With Building API's.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Starting with dotnet"
+              "title": "Starting With Building API's"
             }
           }
         ],
@@ -451,8 +451,9 @@
   },
   "active": "dc7d071c44c963ff",
   "lastOpenFiles": [
-    "dotnet/Packages in dotnet.md",
+    "dotnet/API/testing2.md",
     "dotnet/Starting with dotnet.md",
+    "dotnet/Packages in dotnet.md",
     "Obsidian Text formatting.md",
     "Docker/Starting with docker.md",
     "Tap function.md",
@@ -478,7 +479,6 @@
     "ideas.md",
     "sites to check later.md",
     "Tmux config for later.md",
-    "testing.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
