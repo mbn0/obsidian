@@ -246,9 +246,33 @@
               "icon": "lucide-file",
               "title": "Starting with dotnet"
             }
+          },
+          {
+            "id": "dc7d071c44c963ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dotnet/Packages in dotnet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Packages in dotnet"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -302,8 +326,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3f2efe243827d3c",
@@ -426,8 +449,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "249d17d3e7f982c9",
+  "active": "dc7d071c44c963ff",
   "lastOpenFiles": [
+    "dotnet/Starting with dotnet.md",
+    "Obsidian Text formatting.md",
+    "Docker/Starting with docker.md",
+    "Tap function.md",
+    "dotnet/Packages in dotnet.md",
     "Untitled 1.base",
     "Untitled.base",
     "dotnet/warnings in dotnet.md",
@@ -437,13 +465,10 @@
     "angular/Observables, Pipe, etc.md",
     "SQL for Task 1.md",
     "Tap.md",
-    "Tap function.md",
     "[[Tap.md",
     "[[Map.md",
     "angular/RxJS.md",
     "angular/Map Funtion.md",
-    "Obsidian Text formatting.md",
-    "dotnet/Starting with dotnet.md",
     "angular/template_reference_variable.md",
     "angular/httpResource.md",
     "Questions.md",
@@ -454,7 +479,6 @@
     "sites to check later.md",
     "Tmux config for later.md",
     "testing.md",
-    "for later.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",

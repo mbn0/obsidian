@@ -31,12 +31,12 @@ related notes: "[[Obsidian Text formatting]]"
 ---
 ## Links
 - **Internal Link:**  [[Starting with dotnet]]
+	- Internal Links with different display name [[Starting with docker |docker]]
 - **External Link:** [Link Text](https://example.com)
 ---
 ## Quotes
 >something something 
 >idk
-
 ---
 ## Tables
 
@@ -44,6 +44,7 @@ related notes: "[[Obsidian Text formatting]]"
 | ----------- | ----------- |
 | Row 1 Col 1 | Row 1 Col 2 |
 | Row 2 Col 1 | Row 2 Col 2 |
+|             |             |
 |             |             |
 
 ---

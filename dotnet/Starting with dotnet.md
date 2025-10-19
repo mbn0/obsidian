@@ -24,8 +24,7 @@ to run:
 dotnet run
 ```
 
-
-# 
+go to: [[Packages in dotnet]]
 
 [C# Language Documintation ](https://learn.microsoft.com/en-us/dotnet/csharp/)
 

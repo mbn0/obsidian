@@ -11,4 +11,9 @@ to check for installed packages in a certain project use:
 ```bash
 dotnet list package
 ```
+# How to restore
 
+to restore required packages when cloning a project, simply:
+```
+dotnet restore
+```
