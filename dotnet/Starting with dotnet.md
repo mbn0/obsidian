@@ -18,6 +18,10 @@ we will be using :
 dotnet new console -n <name>
 ```
 - if you give your project a name, it will be created in a folder, if you dont, the files will spawn in the folder  you are currently in
+'''
+`
+'''
+
 
 to run:
 ```

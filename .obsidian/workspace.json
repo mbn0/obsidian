@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Data-Source Connection.md",
+                "file": "dotnet/Starting with dotnet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dynamic Data-Source Connection"
+              "title": "Starting with dotnet"
             }
           }
         ],
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -219,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +238,8 @@
   "active": "a7cbd12aacaf1082",
   "lastOpenFiles": [
     "FormBuilder/Starting.md",
-    "Dynamic Data-Source Connection.md",
     "angular/Observables, Pipe, etc.md",
+    "Dynamic Data-Source Connection.md",
     "Untitled.md",
     "FormBuilder",
     "Untitled 1.base",
