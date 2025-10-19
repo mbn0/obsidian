@@ -33,4 +33,4 @@ from : [buudi's MoviesMenuAPI(love you bro)](https://github.com/buudi/MoviesMenu
 # Primary key
 if the primary key is not specified, EF Core will search for one by looking for `Id` in the name.
 
-[[(dotnet) Connecting to DB and migrating]].
+[[Connecting to DB and migrating]].

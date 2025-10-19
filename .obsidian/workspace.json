@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/Observables, Pipe, etc.md",
+                "file": "dotnet/Starting with dotnet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Observables, Pipe, etc"
+              "title": "Starting with dotnet"
             }
           }
         ],
@@ -281,7 +281,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stuff",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,7 +302,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3f2efe243827d3c",
@@ -427,12 +428,17 @@
   },
   "active": "249d17d3e7f982c9",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
+    "dotnet/warnings in dotnet.md",
+    "dotnet/Csharp shortcuts.md",
+    "dotnet/Connecting to DB and migrating.md",
+    "Untitled.md",
     "angular/Observables, Pipe, etc.md",
     "SQL for Task 1.md",
     "Tap.md",
     "Tap function.md",
     "[[Tap.md",
-    "Untitled.md",
     "[[Map.md",
     "angular/RxJS.md",
     "angular/Map Funtion.md",
@@ -449,13 +455,7 @@
     "Tmux config for later.md",
     "testing.md",
     "for later.md",
-    "Docker/Using SQL Servers inside a docker container.md",
-    "angular/two_way_binding.md",
-    "angular/ngclass.md",
-    "angular/code_behind.md",
-    "Untitled 1.base",
     "Untitled 2.base",
-    "Untitled.base",
     "SQLServer",
     "obsedian",
     "Static"
