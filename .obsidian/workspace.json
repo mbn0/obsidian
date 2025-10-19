@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet/Packages in dotnet.md",
+                "file": "dotnet/Starting with dotnet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Packages in dotnet"
+              "title": "Starting with dotnet"
             }
           }
         ],
@@ -451,11 +451,11 @@
   },
   "active": "dc7d071c44c963ff",
   "lastOpenFiles": [
+    "dotnet/Packages in dotnet.md",
     "dotnet/Starting with dotnet.md",
     "Obsidian Text formatting.md",
     "Docker/Starting with docker.md",
     "Tap function.md",
-    "dotnet/Packages in dotnet.md",
     "Untitled 1.base",
     "Untitled.base",
     "dotnet/warnings in dotnet.md",
