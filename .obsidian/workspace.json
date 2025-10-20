@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Difference Between Interfaces and Models Folders.md",
+                "file": "FormBuilder/Services/Core/error-handler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Difference Between Interfaces and Models Folders"
+              "title": "error-handler"
             }
           }
         ]
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -211,8 +212,11 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "FormBuilder/Interfaces.md",
     "FormBuilder/Difference Between Interfaces and Models Folders.md",
+    "FormBuilder/Services/Core/error-handler.md",
+    "FormBuilder/Services/Core",
+    "FormBuilder/Services",
+    "FormBuilder/Interfaces.md",
     "FormBuilder/Models.md",
     "FormBuilder/service-proxies.md",
     "Untitled 2.md",
@@ -239,7 +243,6 @@
     "dotnet/Packages in dotnet.md",
     "Docker/Starting with docker.md",
     "Untitled.base",
-    "dotnet/warnings in dotnet.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
