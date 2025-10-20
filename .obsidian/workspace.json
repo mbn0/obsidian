@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Notes for project.md",
+                "file": "FormBuilder/Difference Between Interfaces and Models Folders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes for project"
+              "title": "Difference Between Interfaces and Models Folders"
             }
           }
         ]
@@ -209,22 +209,23 @@
   },
   "active": "3b83063f99a9493f",
   "lastOpenFiles": [
+    "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Notes for project.md",
+    "FormBuilder/Starting.md",
+    "FormBuilder/Architecture/Interfaces.md",
+    "FormBuilder/Architecture/Custom Directive.md",
+    "FormBuilder/Architecture/service-proxies.md",
+    "FormBuilder/Architecture",
+    "FormBuilder/Architecture/Services/ui/notification.service.ts.md",
+    "FormBuilder/Architecture/Services/Core/error-handler.md",
+    "Static/Pasted image 20251020132000.png",
     "Static/Pasted image 20251020134416.png",
     "Static/Pasted image 20251020134341.png",
-    "Static/Pasted image 20251020132000.png",
     "Static",
-    "FormBuilder/Services/Core/error-handler.md",
-    "FormBuilder/Services/ui/notification.service.ts.md",
-    "FormBuilder/Custom Directive.md",
-    "FormBuilder/Interfaces.md",
-    "FormBuilder/Difference Between Interfaces and Models Folders.md",
-    "FormBuilder/Models.md",
-    "FormBuilder/service-proxies.md",
-    "FormBuilder/Starting.md",
-    "FormBuilder/Services/ui",
-    "FormBuilder/Services/Core",
-    "FormBuilder/Services",
+    "FormBuilder/Architecture/Models.md",
+    "FormBuilder/Architecture/Services/ui",
+    "FormBuilder/Architecture/Services/Core",
+    "FormBuilder/Architecture/Services",
     "Untitled 2.md",
     "Untitled 1.md",
     "Obsidian Text formatting.md",
@@ -245,7 +246,6 @@
     "dotnet/API/testing2.md",
     "Untitled.base",
     "Untitled 2.base",
-    "SQLServer",
-    "obsedian"
+    "SQLServer"
   ]
 }
