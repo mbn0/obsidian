@@ -1,4 +1,4 @@
-After writing the [[Models]], do the following.
+After writing the [[dotnet/API/Models]], do the following.
 write `ApplicationDBContext`class
 an example for it: 
 ```C# 

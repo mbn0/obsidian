@@ -7,7 +7,7 @@ the hardest part of any framework
 # Program.cs
 where the build of the project first starts. AKA the opening of the project
 
-# [[Models]]
+# [[dotnet/API/Models]]
 
 # [[Context or Data]]
 

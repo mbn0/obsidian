@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Interfaces.md",
+                "file": "FormBuilder/Models.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interfaces"
+              "title": "Models"
             }
           }
         ]
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -212,8 +211,10 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "FormBuilder/Starting.md",
     "FormBuilder/Interfaces.md",
+    "FormBuilder/Models.md",
+    "Untitled 1.md",
+    "FormBuilder/Starting.md",
     "FormBuilder/Custom Directive.md",
     "FormBuilder/Notes for project.md",
     "Obsidian Text formatting.md",
@@ -239,8 +240,6 @@
     "dotnet/Csharp shortcuts.md",
     "dotnet/Connecting to DB and migrating.md",
     "SQL for Task 1.md",
-    "Tap.md",
-    "[[Tap.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
