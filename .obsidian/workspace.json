@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Services/Core/error-handler.md",
-                "mode": "preview",
+                "file": "FormBuilder/Notes for project.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "error-handler"
+              "title": "Notes for project"
             }
           }
         ]
@@ -209,15 +209,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b83063f99a9493f",
+  "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "Static/Pasted image 20251020132000.png",
+    "Static",
     "FormBuilder/Services/Core/error-handler.md",
+    "FormBuilder/Notes for project.md",
     "FormBuilder/Services/ui/notification.service.ts.md",
     "FormBuilder/Custom Directive.md",
     "FormBuilder/Interfaces.md",
     "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Models.md",
-    "FormBuilder/Notes for project.md",
     "FormBuilder/service-proxies.md",
     "FormBuilder/Starting.md",
     "FormBuilder/Services/ui",
@@ -241,11 +243,9 @@
     "angular/Map Funtion.md",
     "dotnet/API/Starting With Building API's.md",
     "dotnet/API/testing2.md",
-    "dotnet/Packages in dotnet.md",
     "Untitled.base",
     "Untitled 2.base",
     "SQLServer",
-    "obsedian",
-    "Static"
+    "obsedian"
   ]
 }
