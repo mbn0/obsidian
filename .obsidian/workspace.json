@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Models.md",
+                "file": "FormBuilder/Interfaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Models"
+              "title": "Interfaces"
             }
           }
         ]
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -212,8 +211,10 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "FormBuilder/Interfaces.md",
     "FormBuilder/Models.md",
+    "FormBuilder/Interfaces.md",
+    "FormBuilder/service-proxies.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "FormBuilder/Starting.md",
     "FormBuilder/Custom Directive.md",
@@ -239,8 +240,6 @@
     "Untitled.base",
     "dotnet/warnings in dotnet.md",
     "dotnet/Csharp shortcuts.md",
-    "dotnet/Connecting to DB and migrating.md",
-    "SQL for Task 1.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
