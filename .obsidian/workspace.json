@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Interfaces.md",
+                "file": "FormBuilder/Difference Between Interfaces and Models Folders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interfaces"
+              "title": "Difference Between Interfaces and Models Folders"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "FormBuilder/Models.md",
     "FormBuilder/Interfaces.md",
+    "FormBuilder/Difference Between Interfaces and Models Folders.md",
+    "FormBuilder/Models.md",
     "FormBuilder/service-proxies.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -239,7 +240,6 @@
     "Docker/Starting with docker.md",
     "Untitled.base",
     "dotnet/warnings in dotnet.md",
-    "dotnet/Csharp shortcuts.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
