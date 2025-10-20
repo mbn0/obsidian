@@ -43,7 +43,6 @@
       {
         "id": "7ceb4dcf1bfc046e",
         "type": "tabs",
-        "dimension": 62.99790356394131,
         "children": [
           {
             "id": "af1e53511933d44e",
@@ -88,9 +87,8 @@
         ]
       },
       {
-        "id": "c3f2efe243827d3c",
+        "id": "32b6e364c3618169",
         "type": "tabs",
-        "dimension": 37.0020964360587,
         "children": [
           {
             "id": "3b83063f99a9493f",
@@ -209,14 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c68c8a54da957f96",
+  "active": "3b83063f99a9493f",
   "lastOpenFiles": [
+    "FormBuilder/Notes for project.md",
     "Static/Pasted image 20251020134416.png",
     "Static/Pasted image 20251020134341.png",
     "Static/Pasted image 20251020132000.png",
     "Static",
     "FormBuilder/Services/Core/error-handler.md",
-    "FormBuilder/Notes for project.md",
     "FormBuilder/Services/ui/notification.service.ts.md",
     "FormBuilder/Custom Directive.md",
     "FormBuilder/Interfaces.md",
