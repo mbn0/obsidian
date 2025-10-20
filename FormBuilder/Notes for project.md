@@ -10,3 +10,6 @@ The tester component has many issues, including:
 - repeated boxes around same field 
 
 ![[Pasted image 20251020132000.png]]
+
+## form creation
+the preview does not show `rating.component` properly. 
