@@ -11,10 +11,24 @@
             "id": "c68c8a54da957f96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "FormBuilder/Notes for project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notes for project"
             }
           }
         ]
@@ -197,10 +211,12 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Custom Directive.md",
+    "FormBuilder/Notes for project.md",
+    "FormBuilder/Starting.md",
     "Obsidian Text formatting.md",
     "dotnet/Architecture.md",
     "Questions.md",
-    "FormBuilder/Starting.md",
     "fkd.md",
     "dotnet/Starting with dotnet.md",
     "angular/Observables, Pipe, etc.md",
@@ -224,8 +240,6 @@
     "Tap.md",
     "[[Tap.md",
     "[[Map.md",
-    "angular/RxJS.md",
-    "angular/template_reference_variable.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
