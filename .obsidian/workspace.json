@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Notes for project.md",
+                "file": "FormBuilder/Interfaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes for project"
+              "title": "Interfaces"
             }
           }
         ]
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -211,9 +212,10 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Starting.md",
+    "FormBuilder/Interfaces.md",
     "FormBuilder/Custom Directive.md",
     "FormBuilder/Notes for project.md",
-    "FormBuilder/Starting.md",
     "Obsidian Text formatting.md",
     "dotnet/Architecture.md",
     "Questions.md",
@@ -239,7 +241,6 @@
     "SQL for Task 1.md",
     "Tap.md",
     "[[Tap.md",
-    "[[Map.md",
     "Untitled 2.base",
     "SQLServer",
     "obsedian",
