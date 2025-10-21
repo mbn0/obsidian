@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Architecture/Services/ui/notification.service.ts.md",
+                "file": "FormBuilder/Notes for project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "notification.service.ts"
+              "title": "Notes for project"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Architecture/Services/ui/notification.service.ts.md",
     "FormBuilder/Architecture/Services/Core/error-handler.md",
     "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Notes for project.md",
@@ -217,7 +218,6 @@
     "FormBuilder/Architecture/Custom Directive.md",
     "FormBuilder/Architecture/service-proxies.md",
     "FormBuilder/Architecture",
-    "FormBuilder/Architecture/Services/ui/notification.service.ts.md",
     "Static/Pasted image 20251020132000.png",
     "Static/Pasted image 20251020134416.png",
     "Static/Pasted image 20251020134341.png",
