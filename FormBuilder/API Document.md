@@ -9,25 +9,20 @@
 ## `GetDatasetDetailsById`
 # Form List Controller
 ## `GetFormLists`
-
 ##  `GetFormById`
 ## `GetFormControls`
-
-
+## `StepSubmit`
 
 
 
 # ungrouped
 
-## `StepSubmit`
+
 ## `GetLookupValue`
 ## `RemoveForm`
 ## `SubmitFormDetails`
 ## `GetFormGroupById`
-
 ## `GetFormGroups`
-
 ## `GetUngroupedFroms`
-
 ## `FormGroupOperations`
 
