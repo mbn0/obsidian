@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Notes for project.md",
+                "file": "angular/content projections.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes for project"
+              "title": "content projections"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "FormBuilder/Notes for project.md",
+    "angular/content projections.md",
+    "Untitled 3.md",
     "FormBuilder/API Document.md",
     "FormBuilder/Database.md",
     "Static/Pasted image 20251021144838.png",
@@ -245,7 +246,6 @@
     "Tap function.md",
     "django/How to run.md",
     "Docker/Using SQL Servers inside a docker container.md",
-    "angular/Map Funtion.md",
     "Untitled.base",
     "Untitled 2.base",
     "SQLServer"
