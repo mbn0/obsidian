@@ -1,6 +1,9 @@
 - the directive "FieldOptionsDirective" is not being used anywhere inside the project folder.
 
 
+## Two components with the same selector.
+app-dialog in components/form-designer/components/dialog
+and in components/shared/app-dialog
 ## tester-component
 The tester component has many issues, including:
 - Dynamic sizing issue.
