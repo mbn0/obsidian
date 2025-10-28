@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Architecture/Models.md",
+                "file": "FormBuilder/Notes for project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Models"
+              "title": "Notes for project"
             }
           }
         ]
@@ -209,11 +209,11 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Architecture/Models.md",
     "FormBuilder/Notes for project.md",
     "FormBuilder/Database.md",
     "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Architecture/service-proxies.md",
-    "FormBuilder/Architecture/Models.md",
     "FormBuilder/Architecture/Interfaces.md",
     "FormBuilder/Architecture/Custom Directive.md",
     "FormBuilder/Architecture/Services/Core/error-handler.md",

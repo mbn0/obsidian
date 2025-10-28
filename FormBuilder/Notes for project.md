@@ -8,7 +8,9 @@
 When uncommented: 
 - works as expected for `testingConnection`
 - no info of how it works with `ExcuteDatabaseQuery`
-
+Action taken: 
+- uncommented port in function for connection testing
+- left the original function (inside `ExcuteDatabaseQuery`) as is.
 ## Two components with the same selector.
 app-dialog in components/form-designer/components/dialog
 and in components/shared/app-dialog
