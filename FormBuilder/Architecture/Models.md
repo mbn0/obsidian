@@ -1,7 +1,6 @@
 # base models
 ## `form-component.example.ts` 
 provides an example of a corrected form component data,
-
 # Responses models
 ## `index.ts`
 exports all of the other files.

@@ -28,6 +28,3 @@ The tester component has many issues, including:
 ![[Pasted image 20251020134341.png]]
 ![[Pasted image 20251020134416.png]]
 
-
-
-- 
