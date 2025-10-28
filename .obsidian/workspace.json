@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/content projections.md",
+                "file": "FormBuilder/Notes for project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "content projections"
+              "title": "Notes for project"
             }
           }
         ]
@@ -209,25 +209,25 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Database.md",
+    "FormBuilder/Difference Between Interfaces and Models Folders.md",
+    "FormBuilder/Architecture/service-proxies.md",
+    "FormBuilder/Architecture/Models.md",
+    "FormBuilder/Architecture/Interfaces.md",
+    "FormBuilder/Architecture/Custom Directive.md",
+    "FormBuilder/Architecture/Services/Core/error-handler.md",
     "FormBuilder/Notes for project.md",
     "angular/content projections.md",
     "Untitled 3.md",
     "FormBuilder/API Document.md",
-    "FormBuilder/Database.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture/Services/ui/notification.service.ts.md",
-    "FormBuilder/Architecture/Services/Core/error-handler.md",
-    "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Starting.md",
-    "FormBuilder/Architecture/Interfaces.md",
-    "FormBuilder/Architecture/Custom Directive.md",
-    "FormBuilder/Architecture/service-proxies.md",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
     "Static/Pasted image 20251020134416.png",
     "Static/Pasted image 20251020134341.png",
     "Static",
-    "FormBuilder/Architecture/Models.md",
     "FormBuilder/Architecture/Services/ui",
     "FormBuilder/Architecture/Services/Core",
     "FormBuilder/Architecture/Services",
