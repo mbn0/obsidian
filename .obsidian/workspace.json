@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Custom Directive.md",
+                "file": "FormBuilder/Database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Custom Directive"
+              "title": "Database"
             }
           }
         ]
@@ -209,15 +209,18 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Database.md",
-    "FormBuilder/Custom Directive.md",
-    "FormBuilder/API Document.md",
-    "FormBuilder/Postman Collections.md",
-    "FormBuilder/service-proxies.md",
     "FormBuilder/Models.md",
+    "FormBuilder/service-proxies.md",
+    "FormBuilder/Postman Collections.md",
+    "FormBuilder/notification.service.ts.md",
+    "FormBuilder/Notes for project.md",
     "FormBuilder/Interfaces.md",
     "FormBuilder/error-handler.md",
-    "FormBuilder/notification.service.ts.md",
+    "FormBuilder/API Document.md",
+    "FormBuilder/Tester Component Issues.md",
+    "FormBuilder/Custom Directive.md",
     "Obsidian Text formatting.md",
     "Questions.md",
     "sites to check later.md",
@@ -228,8 +231,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled 3.md",
-    "FormBuilder/Notes for project.md",
-    "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "angular/content projections.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Starting.md",
@@ -243,7 +244,6 @@
     "FormBuilder/Architecture/Services",
     "dotnet/Architecture.md",
     "fkd.md",
-    "dotnet/Starting with dotnet.md",
     "FormBuilder",
     "Untitled 1.base",
     "Untitled.base",
