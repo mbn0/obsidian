@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Notes for project.md",
+                "file": "FormBuilder/Custom Directive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes for project"
+              "title": "Custom Directive"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:services",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,18 +209,28 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "FormBuilder/API Document.md",
-    "FormBuilder/Architecture/Interfaces.md",
-    "FormBuilder/Architecture/Custom Directive.md",
-    "FormBuilder/Architecture/Services/Core/error-handler.md",
-    "FormBuilder/Architecture/Services/ui/notification.service.ts.md",
-    "FormBuilder/Notes for project.md",
-    "FormBuilder/Architecture/Models.md",
     "FormBuilder/Database.md",
-    "FormBuilder/Difference Between Interfaces and Models Folders.md",
-    "FormBuilder/Architecture/service-proxies.md",
-    "angular/content projections.md",
+    "FormBuilder/Custom Directive.md",
+    "FormBuilder/API Document.md",
+    "FormBuilder/Postman Collections.md",
+    "FormBuilder/service-proxies.md",
+    "FormBuilder/Models.md",
+    "FormBuilder/Interfaces.md",
+    "FormBuilder/error-handler.md",
+    "FormBuilder/notification.service.ts.md",
+    "Obsidian Text formatting.md",
+    "Questions.md",
+    "sites to check later.md",
+    "SQL for Task 1.md",
+    "Tmux config for later.md",
+    "Tap function.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled 3.md",
+    "FormBuilder/Notes for project.md",
+    "FormBuilder/Difference Between Interfaces and Models Folders.md",
+    "angular/content projections.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Starting.md",
     "FormBuilder/Architecture",
@@ -231,21 +241,11 @@
     "FormBuilder/Architecture/Services/ui",
     "FormBuilder/Architecture/Services/Core",
     "FormBuilder/Architecture/Services",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Obsidian Text formatting.md",
     "dotnet/Architecture.md",
-    "Questions.md",
     "fkd.md",
     "dotnet/Starting with dotnet.md",
-    "angular/Observables, Pipe, etc.md",
-    "Dynamic Data-Source Connection.md",
-    "Untitled.md",
     "FormBuilder",
     "Untitled 1.base",
-    "Tap function.md",
-    "django/How to run.md",
-    "Docker/Using SQL Servers inside a docker container.md",
     "Untitled.base",
     "Untitled 2.base",
     "SQLServer"

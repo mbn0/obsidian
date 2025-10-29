@@ -1,4 +1,4 @@
-## What is the difference between [[FormBuilder/Architecture/Models|Models]] and [[Interfaces]]?
+## What is the difference between [[FormBuilder/Models|Models]] and [[Interfaces]]?
 - interfaces/: Shared, app‑wide type contracts. Pure TypeScript types used across many features (component, dialog, event, form, ui, validation, etc.). No runtime behavior.
 - models/: Domain models and concrete data tied to specific features or APIs. Can include classes, type aliases, example fixtures, and yes—local interfaces that are specific to those models or API DTOs.
 

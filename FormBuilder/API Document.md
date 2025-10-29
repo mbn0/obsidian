@@ -3,6 +3,7 @@
 ## `ExecuteDynamicSourceQuery`
 ## `GetDatabaseConnections`
 ## `GetDatabaseConnectionsList`
+## `TestDatabaseConnection`
 
 # Dataset Controller
 ## `GetDatasets`

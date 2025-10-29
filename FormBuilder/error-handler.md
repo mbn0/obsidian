@@ -1,3 +1,8 @@
+---
+tags:
+  - "#core"
+  - services
+---
 # error handler has three public functions
 ### 1- `handleHttpError()`
 - Detects if the issue is from the client-side or server-side
