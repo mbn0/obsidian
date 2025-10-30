@@ -14,7 +14,7 @@ add a feature to the system to add a dataset by uploading a postman collection f
 - ability to upload swagger collections as well.
 # Logical Errors
 - After adding an endpoint using postman, when trying to edit it you face an issue with URL because Postman collections use an IP address (is that default?)which the form does not recognize as a valid URL
-- when saving multiple datasets with save name and description, no error is retrieved, dataset updated instead of duplicated. 
+- when saving multiple datasets with save name and description, no error is retrieved, normal response and nothing happens.
 
 # Design Issues
 - if endpoint name or URL is too long it exceeds the box for it in the postman-addition page
