@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Postman Collections.md",
+                "file": "Work Itemizer/Planing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Postman Collections"
+              "title": "Planing"
             }
           }
         ]
@@ -207,9 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b83063f99a9493f",
+  "active": "c68c8a54da957f96",
   "lastOpenFiles": [
     "FormBuilder/Postman Collections.md",
+    "Work Itemizer/Planing.md",
+    "Work Itemizer",
     "FormBuilder/Notes for project.md",
     "Static/Pasted image 20251030120445.png",
     "FormBuilder/notification.service.ts.md",
@@ -247,7 +249,6 @@
     "FormBuilder",
     "Untitled 1.base",
     "Untitled.base",
-    "Untitled 2.base",
-    "SQLServer"
+    "Untitled 2.base"
   ]
 }
