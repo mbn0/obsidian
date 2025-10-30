@@ -15,6 +15,7 @@ Action taken:
 app-dialog in components/form-designer/components/dialog
 and in components/shared/app-dialog (mostly used)
 
+## 
 ## tester-component
 The tester component has many issues, including:
 - Dynamic sizing issue.
