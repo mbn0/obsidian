@@ -11,4 +11,5 @@
 The user requests a certain thing from the chatbot, the chatbot creates a proper Query.
 # 2. Make the Chatbot Answer
 Also has two approaches: 
-1. 
+1. The chatbot receives all data and answers depending on it.
+2. The chatbot requests data depending on question.
