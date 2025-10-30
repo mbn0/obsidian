@@ -15,7 +15,8 @@ Action taken:
 app-dialog in components/form-designer/components/dialog
 and in components/shared/app-dialog (mostly used)
 
-## 
+## Get endpoints with POST header? 
+![[Pasted image 20251030120445.png]]
 ## tester-component
 The tester component has many issues, including:
 - Dynamic sizing issue.
