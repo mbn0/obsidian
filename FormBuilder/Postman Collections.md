@@ -11,7 +11,7 @@ add a feature to the system to add a dataset by uploading a postman collection f
 # Needs to be considered
 - Bulk addition of endpoints
 - uploading file instead of JSON
-- ability to upload swagger 
+- ability to upload swagger collections as well.
 # Logical Errors
 - After adding an endpoint using postman, when trying to edit it you face an issue with URL because Postman collections use an IP address which the form does not recognize as a valid URL
 # Design Issues
