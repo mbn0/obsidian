@@ -9,8 +9,8 @@ add a feature to the system to add a dataset by uploading a postman collection f
  - Created new component, `postman-dataset`. 
  - Dataset can now be added by pasting the JSON inside a text box.
 # Needs to be considered
-- Bulk addition of endpoints
-- uploading file instead of JSON
+- Bulk addition of endpoints (parked for now)
+- uploading file instead of JSON (parked)
 - ability to upload swagger collections as well.
 # Logical Errors
 - After adding an endpoint using postman, when trying to edit it you face an issue with URL because Postman collections use an IP address (is that default?)which the form does not recognize as a valid URL
