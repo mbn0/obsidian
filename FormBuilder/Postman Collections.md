@@ -17,4 +17,4 @@ add a feature to the system to add a dataset by uploading a postman collection f
 - when saving multiple datasets with save name and description, no error is retrieved, normal response and nothing happens.
 
 # Design Issues
-- if endpoint name or URL is too long it exceeds the box for it in the postman-addition page
+- if endpoint name is too long it exceeds the box for it in the postman-addition page
