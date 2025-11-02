@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/OpenAI Chatbot.md",
+                "file": "Work Itemizer/Dtos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OpenAI Chatbot"
+              "title": "Dtos"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "Work Itemizer/Testing AzureDevOps SDK.md",
     "Work Itemizer/OpenAI Chatbot.md",
+    "Work Itemizer/Dtos.md",
+    "Work Itemizer/Testing AzureDevOps SDK.md",
     "dotnet/warnings in dotnet.md",
     "Work Itemizer/Planing.md",
     "Static/Pasted image 20251102124616.png",
@@ -285,7 +286,6 @@
     "Tap function.md",
     "Untitled.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
