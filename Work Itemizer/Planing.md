@@ -13,3 +13,10 @@ The user requests a certain thing from the chatbot, the chatbot creates a proper
 Also has two approaches: 
 1. The chatbot receives all data and answers depending on it.
 2. The chatbot requests data depending on question.
+
+# is a RAG required? 
+Right now it is not apparent. 
+
+
+# To Check Out 
+[Azure DevOps REST API Documintation](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
