@@ -28,8 +28,10 @@ After that, the query created by the LLM is shown to the user and the user is pr
 - the backend sends the output data to the frontend
 - the frontend displays the data table.
 - the chatbot reads the data received.
+### example from Copilot 
+![[Pasted image 20251102124616.png]]
 ### Key points:
-- LLM never calls backend directly — it just generates WIQL.
-- 
+- LLM never calls backend directly, it just generates WIQL.
+- The user is the gateway to prompt calling backend endpoints.
 # To Check Out 
 [Azure DevOps REST API Documintation](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
