@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Work Itemizer/Planing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planing"
+            }
+          },
+          {
+            "id": "3be91eb1893c4854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Work Itemizer/Fetching Work Items Using AzureDevOps SDK.md",
                 "mode": "source",
                 "source": false,
@@ -55,7 +79,8 @@
               "title": "Fetching Work Items Using AzureDevOps SDK"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c68c8a54da957f96",
+  "active": "3be91eb1893c4854",
   "lastOpenFiles": [
     "Work Itemizer/Planing.md",
     "Work Itemizer/Fetching Work Items Using AzureDevOps SDK.md",
