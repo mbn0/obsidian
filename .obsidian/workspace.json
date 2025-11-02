@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/Planing.md",
+                "file": "dotnet/warnings in dotnet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planing"
+              "title": "warnings in dotnet"
             }
           },
           {
@@ -280,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b83063f99a9493f",
+  "active": "27cd6ed2f255f454",
   "lastOpenFiles": [
     "Work Itemizer/Planing.md",
     "Work Itemizer/Testing AzureDevOps SDK.md",
