@@ -1,3 +1,5 @@
+# Requirements
+A chatbot interface for Azure DevOps where the user can ask about work items, add them, delete them, and more.
 # Ways to connect with Azure DevOps Work Items
 
 ## 1. Using Azure DevOps REST API
@@ -19,6 +21,7 @@ Also has two approaches:
 # How to make the chatbot call the backend??
 ## Current Plan
 - Make a single endpoint to retrieve all Work Items from the backend 
+- Make endpoints for addition, Bulk Addition
 - Give all info to the chatbot and let it answer according to that.
 ## Alternative (Good if Work Items are too much to handle)
 Note: this alternative approach is only good if work items are in a size that affects the smoothness of the application 
@@ -34,8 +37,6 @@ After that, the query created by the LLM is shown to the user and the user is pr
 ### Key points:
 - LLM never calls backend directly, it just generates WIQL.
 - The user is the gateway to prompt calling backend endpoints.
-
-
 ## Or...
 Call Azure REST API from frontend?? [Using Azure DevOps REST API]
 # To Check Out 
