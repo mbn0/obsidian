@@ -41,9 +41,14 @@ After that, the query created by the LLM is shown to the user and the user is pr
 - The User enters his information (PAT and project name)
 - All work Items Retrieved and given to chatbot as context
 - The user asks for another operation such as addition or deletion
-- 
 
+# Does The Project Need a database?
+Short answer is: NO
+Long answer is: 
+A database is beneficial in case of:
+- if caching is required,
+- saving user preferences.
 
 Call Azure REST API from frontend?? [Using Azure DevOps REST API]
 # To Check Out 
-[Azure DevOps REST API Documintation](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
+[Azure DevOps REST API Documentation](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
