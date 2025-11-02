@@ -2,9 +2,8 @@
 
 ## 1. Using Azure DevOps REST API
 
-## 2.  Using  Azure DevOps SDKs
-
-
+## 2.  Using Azure DevOps SDKs
+[[Fetching Work Items Using AzureDevOps SDK]]
 # Approaches
 
 # 1. Make the Chatbot Create a Custom Query
