@@ -1,10 +1,11 @@
 # Requirements
-A chatbot interface for Azure DevOps where the user can ask about work items, add them, delete them, and more.
+
+A chatbot interface for Azure DevOps where the user can ask about work items, add them, delete them, and stuff.
 # Ways to connect with Azure DevOps Work Items
 
 ## 1. Using Azure DevOps REST API
 
-## 2.  Using Azure DevOps SDKs
+## 2. Using Azure DevOps SDKs
 [[Testing AzureDevOps SDK|Testing Azure DevOps SDK]]
 # Approaches
 
@@ -14,12 +15,11 @@ The user requests a certain thing from the chatbot, the chatbot creates a proper
 Also has two approaches: 
 1. The chatbot receives all data and answers depending on it.
 2. The chatbot requests data depending on question.
-
 # is a RAG required? 
-(Not needed for now)
-
+Not needed for now
 # How to make the chatbot call the backend??
-## Current Plan
+## Static Backend Calls (~~Current Plan~~) Canceled
+Note: This was cancelled because the chatbot has to call different stuff anyways.
 - Make a single endpoint to retrieve all Work Items from the backend 
 - Make endpoints for addition, Bulk Addition
 - Give all info to the chatbot and let it answer according to that.
@@ -37,7 +37,13 @@ After that, the query created by the LLM is shown to the user and the user is pr
 ### Key points:
 - LLM never calls backend directly, it just generates WIQL.
 - The user is the gateway to prompt calling backend endpoints.
-## Or...
+## Mix Between The Two
+- The User enters his information (PAT and project name)
+- All work Items Retrieved and given to chatbot as context
+- The user asks for another operation such as addition or deletion
+- 
+
+
 Call Azure REST API from frontend?? [Using Azure DevOps REST API]
 # To Check Out 
 [Azure DevOps REST API Documintation](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)

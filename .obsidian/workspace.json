@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -283,8 +282,8 @@
   },
   "active": "27cd6ed2f255f454",
   "lastOpenFiles": [
-    "Work Itemizer/Testing AzureDevOps SDK.md",
     "Work Itemizer/Planing.md",
+    "Work Itemizer/Testing AzureDevOps SDK.md",
     "Static/Pasted image 20251102124616.png",
     "FormBuilder/Postman Collections.md",
     "FormBuilder/Notes for project.md",
