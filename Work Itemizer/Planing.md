@@ -14,8 +14,10 @@ Also has two approaches:
 2. The chatbot requests data depending on question.
 
 # is a RAG required? 
-Right now it is not apparent. (Not needed for now)
+(Not needed for now)
 
+# How to make the chatbot call the backend??
+Current Plan: After the user asks 
 
 # To Check Out 
 [Azure DevOps REST API Documintation](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
