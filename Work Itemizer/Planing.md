@@ -14,7 +14,7 @@ Also has two approaches:
 2. The chatbot requests data depending on question.
 
 # is a RAG required? 
-Right now it is not apparent. 
+Right now it is not apparent. (Not needed for now)
 
 
 # To Check Out 
