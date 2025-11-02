@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/Planing.md",
+                "file": "FormBuilder/Postman Collections.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planing"
+              "title": "Postman Collections"
             }
           }
         ]
@@ -207,22 +207,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b83063f99a9493f",
+  "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "FormBuilder/Notes for project.md",
+    "FormBuilder/Form Creation Issue.md",
+    "FormBuilder/Tester Component Issues.md",
+    "FormBuilder/service-proxies.md",
     "FormBuilder/notification.service.ts.md",
     "Work Itemizer/Planing.md",
     "FormBuilder/Postman Collections.md",
     "Work Itemizer",
-    "FormBuilder/Notes for project.md",
     "Static/Pasted image 20251030120445.png",
     "FormBuilder/Interfaces.md",
     "FormBuilder/Database.md",
     "FormBuilder/API Document.md",
     "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Models.md",
-    "FormBuilder/service-proxies.md",
     "FormBuilder/error-handler.md",
-    "FormBuilder/Tester Component Issues.md",
     "FormBuilder/Custom Directive.md",
     "Obsidian Text formatting.md",
     "Questions.md",
@@ -245,7 +246,6 @@
     "FormBuilder/Architecture/Services/ui",
     "FormBuilder/Architecture/Services/Core",
     "FormBuilder/Architecture/Services",
-    "dotnet/Architecture.md",
     "FormBuilder",
     "Untitled 1.base",
     "Untitled.base",
