@@ -19,17 +19,6 @@ add a feature to the system to add a dataset by uploading a postman collection f
 # Design Issues
 - if endpoint name or URL is too long it exceeds the box for it in the postman-addition page
 - Temp fix: truncate link string if it exceeds 30 characters. issue: not dynamic, does not scale with window size.
-
-# Functions 
-A list of helper functions and their explanation
-- `extractEndpoints()`
-	- checks for 
-- `extractParametersFromRequest()`
-- `extractParametersFromBody()`
-- `extractParametersFromJsonObject()`
-- `extractVariablesFromText()`
-- `extractParametersFromUrl()`
-
 # Interfaces
 Interfaces inside the component (all private, nothing exported)
 - `PostmanCollection` has:
@@ -38,3 +27,14 @@ Interfaces inside the component (all private, nothing exported)
 		- `PostmanItem` (recursive)
 		
 - `ParsedEndpoint`
+# Functions 
+A list of helper functions and their explanation
+### - `extractEndpoints()`
+- Recursively extract endpoints from Postman items.
+### - `extractParametersFromRequest()`
+- Extracts parameters from a request (body and URL) and calls
+	- `extractParametersFromUrl()`
+	- `extractParametersFromBody()`
+		- checks for the type of body and calls a proper function from:
+		- `extractParametersFromJsonObject()`
+		- `extractVariablesFromText()`

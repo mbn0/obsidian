@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -207,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b83063f99a9493f",
+  "active": "c68c8a54da957f96",
   "lastOpenFiles": [
     "FormBuilder/Postman Collections.md",
     "FormBuilder/Notes for project.md",
