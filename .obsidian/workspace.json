@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/ChatBot Rules.md",
+                "file": "Work Itemizer/Possible Issues.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ChatBot Rules"
+              "title": "Possible Issues"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "Work Itemizer/Planing.md",
     "Work Itemizer/ChatBot Rules.md",
+    "Work Itemizer/Possible Issues.md",
+    "Work Itemizer/Planing.md",
     "Work Itemizer/Dtos.md",
     "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Testing AzureDevOps SDK.md",
@@ -285,7 +286,6 @@
     "SQL for Task 1.md",
     "Tmux config for later.md",
     "Tap function.md",
-    "Untitled.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
