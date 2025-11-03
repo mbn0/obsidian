@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/Planing.md",
+                "file": "Work Itemizer/ChatBot Rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planing"
+              "title": "ChatBot Rules"
             }
           },
           {
@@ -257,11 +257,12 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
+    "Work Itemizer/Planing.md",
+    "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Dtos.md",
     "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Testing AzureDevOps SDK.md",
     "dotnet/warnings in dotnet.md",
-    "Work Itemizer/Planing.md",
     "Static/Pasted image 20251102124616.png",
     "FormBuilder/Postman Collections.md",
     "FormBuilder/Notes for project.md",
@@ -285,7 +286,6 @@
     "Tmux config for later.md",
     "Tap function.md",
     "Untitled.md",
-    "Untitled 2.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
