@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/Dtos.md",
+                "file": "Work Itemizer/Planing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dtos"
+              "title": "Planing"
             }
           },
           {
@@ -257,8 +257,8 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Dtos.md",
+    "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Testing AzureDevOps SDK.md",
     "dotnet/warnings in dotnet.md",
     "Work Itemizer/Planing.md",

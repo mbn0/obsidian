@@ -15,13 +15,9 @@ The user requests a certain thing from the chatbot, the chatbot creates a proper
 Also has two approaches: 
 1. The chatbot receives all data and answers depending on it.
 2. The chatbot requests data depending on question.
-# How to make the chatbot call the backend??
-## Static Backend Calls (~~Current Plan~~) Canceled
-Note: This was cancelled because the chatbot has to call different stuff anyways.
-- Make a single endpoint to retrieve all Work Items from the backend 
-- Make endpoints for addition, Bulk Addition
-- Give all info to the chatbot and let it answer according to that.
-## Custom WIQL Calls (Current)
+# How to make the chatbot call the backend
+
+## Custom WIQL Calls (Current Plan)
  After the user asks a question, the bot is prompted to create a WIQL Query, so he requires the user the necessary info to create the Query (Such as project name, person name, etc.)
 After that, the query created by the LLM is shown to the user and the user is prompted to allow sending this query to the backend or not.
 - (check if work items are less than 1000, if so give them to chatbot as context.)
