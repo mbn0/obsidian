@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/Possible Issues.md",
+                "file": "Work Itemizer/Chat Component.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Possible Issues"
+              "title": "Chat Component"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "c68c8a54da957f96",
   "lastOpenFiles": [
-    "Work Itemizer/Need to add.md",
     "Work Itemizer/Possible Issues.md",
+    "Work Itemizer/Chat Component.md",
+    "Work Itemizer/Need to add.md",
     "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Planing.md",
     "Work Itemizer/Dtos.md",
@@ -285,7 +286,6 @@
     "Questions.md",
     "sites to check later.md",
     "SQL for Task 1.md",
-    "Tmux config for later.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
