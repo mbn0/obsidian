@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/Need to add.md",
+                "file": "Work Itemizer/ChatBot Rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Need to add"
+              "title": "ChatBot Rules"
             }
           }
         ]
@@ -209,12 +209,12 @@
   },
   "active": "22d13fa34893b3fc",
   "lastOpenFiles": [
+    "Work Itemizer/Need to add.md",
     "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Planing.md",
     "Work Itemizer/Possible Issues.md",
     "Work Itemizer/Testing AzureDevOps SDK.md",
     "Work Itemizer/Chat Component.md",
-    "Work Itemizer/Need to add.md",
     "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Dtos.md",
     "dotnet/warnings in dotnet.md",
