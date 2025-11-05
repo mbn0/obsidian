@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/ChatBot Rules.md",
+                "file": "Work Itemizer/Azure DevOps Service (backend).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ChatBot Rules"
+              "title": "Azure DevOps Service (backend)"
             }
           }
         ]
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -209,10 +210,11 @@
   },
   "active": "22d13fa34893b3fc",
   "lastOpenFiles": [
+    "Work Itemizer/ChatBot Rules.md",
+    "Work Itemizer/Azure DevOps Service (backend).md",
     "Work Itemizer/Need to add.md",
     "FormBuilder/Issue Creating Form.md",
     "FormBuilder/Notes for project.md",
-    "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Planing.md",
     "Work Itemizer/Possible Issues.md",
@@ -237,7 +239,6 @@
     "FormBuilder/Custom Directive.md",
     "Obsidian Text formatting.md",
     "Questions.md",
-    "sites to check later.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
