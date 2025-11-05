@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Itemizer/ChatBot Rules.md",
+                "file": "FormBuilder/Deleting Component Issue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ChatBot Rules"
+              "title": "Deleting Component Issue"
             }
           }
         ]
@@ -209,18 +209,19 @@
   },
   "active": "22d13fa34893b3fc",
   "lastOpenFiles": [
+    "FormBuilder/Notes for project.md",
+    "FormBuilder/Deleting Component Issue.md",
+    "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Need to add.md",
     "Work Itemizer/OpenAI Chatbot.md",
     "Work Itemizer/Planing.md",
     "Work Itemizer/Possible Issues.md",
     "Work Itemizer/Testing AzureDevOps SDK.md",
     "Work Itemizer/Chat Component.md",
-    "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Dtos.md",
     "dotnet/warnings in dotnet.md",
     "Static/Pasted image 20251102124616.png",
     "FormBuilder/Postman Collections.md",
-    "FormBuilder/Notes for project.md",
     "FormBuilder/Form Creation Issue.md",
     "FormBuilder/Tester Component Issues.md",
     "FormBuilder/service-proxies.md",
@@ -237,7 +238,6 @@
     "Obsidian Text formatting.md",
     "Questions.md",
     "sites to check later.md",
-    "SQL for Task 1.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
