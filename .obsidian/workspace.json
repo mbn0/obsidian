@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FormBuilder/Deleting Component Issue.md",
+                "file": "FormBuilder/Issue Creating Form.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deleting Component Issue"
+              "title": "Issue Creating Form"
             }
           }
         ]
@@ -210,7 +210,7 @@
   "active": "22d13fa34893b3fc",
   "lastOpenFiles": [
     "FormBuilder/Notes for project.md",
-    "FormBuilder/Deleting Component Issue.md",
+    "FormBuilder/Issue Creating Form.md",
     "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Need to add.md",
     "Work Itemizer/OpenAI Chatbot.md",
