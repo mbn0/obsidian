@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Azure DevOps Service (backend)"
             }
+          },
+          {
+            "id": "256f6f1ddcf21e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "bd799c5b9dc15b85",
@@ -208,10 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22d13fa34893b3fc",
+  "active": "256f6f1ddcf21e84",
   "lastOpenFiles": [
-    "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Azure DevOps Service (backend).md",
+    "Untitled.md",
+    "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Need to add.md",
     "FormBuilder/Issue Creating Form.md",
     "FormBuilder/Notes for project.md",
@@ -238,7 +263,6 @@
     "FormBuilder/error-handler.md",
     "FormBuilder/Custom Directive.md",
     "Obsidian Text formatting.md",
-    "Questions.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
