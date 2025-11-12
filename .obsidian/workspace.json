@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "for later.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "for later"
             }
           }
         ],
@@ -234,8 +234,9 @@
   },
   "active": "256f6f1ddcf21e84",
   "lastOpenFiles": [
-    "Work Itemizer/Azure DevOps Service (backend).md",
+    "sites to check later.md",
     "Untitled.md",
+    "Work Itemizer/Azure DevOps Service (backend).md",
     "Work Itemizer/ChatBot Rules.md",
     "Work Itemizer/Need to add.md",
     "FormBuilder/Issue Creating Form.md",
@@ -262,7 +263,6 @@
     "FormBuilder/Models.md",
     "FormBuilder/error-handler.md",
     "FormBuilder/Custom Directive.md",
-    "Obsidian Text formatting.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
