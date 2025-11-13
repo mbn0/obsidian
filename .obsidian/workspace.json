@@ -54,9 +54,45 @@
               "icon": "lucide-file",
               "title": "for later"
             }
+          },
+          {
+            "id": "76e69c36d19b087e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "42350f6ba38b2420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,8 +268,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "256f6f1ddcf21e84",
+  "active": "42350f6ba38b2420",
   "lastOpenFiles": [
+    "Test.md",
+    "Untitled",
     "sites to check later.md",
     "Untitled.md",
     "Work Itemizer/Azure DevOps Service (backend).md",
@@ -262,7 +300,6 @@
     "FormBuilder/Difference Between Interfaces and Models Folders.md",
     "FormBuilder/Models.md",
     "FormBuilder/error-handler.md",
-    "FormBuilder/Custom Directive.md",
     "Static/Pasted image 20251021144838.png",
     "FormBuilder/Architecture",
     "Static/Pasted image 20251020132000.png",
@@ -274,7 +311,6 @@
     "FormBuilder/Architecture/Services",
     "FormBuilder",
     "Untitled 1.base",
-    "Untitled.base",
-    "Untitled 2.base"
+    "Untitled.base"
   ]
 }
